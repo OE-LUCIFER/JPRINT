@@ -1,7 +1,6 @@
 # jprinter - Your Ultimate Debugging Companion! 🔥
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/AbhayKoul/jprinter/main/assets/jprinter_logo.png" alt="jprinter Logo" width="200"/>
     <br>
     <p>
         Wassup, fam! 👋 Meet <code>jprinter</code>, your new go-to tool for debugging! 💯
@@ -12,14 +11,11 @@
 <br>
 
 <div align="center">
-    <a href="https://github.com/AbhayKoul/jprinter/issues">
-        <img src="https://img.shields.io/github/issues/AbhayKoul/jprinter" alt="GitHub Issues" />
+    <a href="https://github.com/OE-LUCIFER/JPRINT/issues">
+        <img src="https://img.shields.io/github/issues/OE-LUCIFER/JPRINT" alt="GitHub Issues" />
     </a>
-    <a href="https://github.com/AbhayKoul/jprinter/pulls">
-        <img src="https://img.shields.io/github/pulls/AbhayKoul/jprinter" alt="GitHub Pull Requests" />
-    </a>
-    <a href="https://github.com/AbhayKoul/jprinter/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/AbhayKoul/jprinter" alt="License" />
+    <a href="https://github.com/OE-LUCIFER/JPRINT/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/OE-LUCIFER/JPRINT" alt="License" />
      </a>
     <a href="https://pypi.org/project/jprinter/">
       <img src="https://img.shields.io/pypi/v/jprinter" alt="PyPI version" />
