@@ -315,13 +315,6 @@ See how to use the global enable/disable and logging in the [How to Use](#how-to
     Feel free to contribute to the project by submitting issues or pull requests. Let's make <code>jprinter</code> the best tool for all the devs out there! 💪
 </div>
 
-<br>
-
-Your boy,
-
-HAI 🙋‍♂️
-
-<br>
 
 ## License - Keeping It Open and Free
 
